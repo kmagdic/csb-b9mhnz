@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kmagdic.github.io/csb-b9mhnz/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kmagdic.github.io/csb-b9mhnz/static/js/main.0437ba8d.chunk.js",
+    "main.js.map": "https://kmagdic.github.io/csb-b9mhnz/static/js/main.0437ba8d.chunk.js.map",
+    "runtime-main.js": "https://kmagdic.github.io/csb-b9mhnz/static/js/runtime-main.77306c61.js",
+    "runtime-main.js.map": "https://kmagdic.github.io/csb-b9mhnz/static/js/runtime-main.77306c61.js.map",
+    "static/js/2.eef0a659.chunk.js": "https://kmagdic.github.io/csb-b9mhnz/static/js/2.eef0a659.chunk.js",
+    "static/js/2.eef0a659.chunk.js.map": "https://kmagdic.github.io/csb-b9mhnz/static/js/2.eef0a659.chunk.js.map",
+    "index.html": "https://kmagdic.github.io/csb-b9mhnz/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kmagdic.github.io/csb-b9mhnz/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eef0a659.chunk.js.LICENSE.txt": "https://kmagdic.github.io/csb-b9mhnz/static/js/2.eef0a659.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77306c61.js",
+    "static/js/2.eef0a659.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0437ba8d.chunk.js"
+  ]
+}
